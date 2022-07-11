@@ -13,9 +13,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
+- 🤝 I Regularly Contribute To Programming Related Project On Here [https://github.com/ashik-al-azad](https://github.com/ashik-al-azad)
+
 - 👨‍💻 All of my projects are available at [ashik-al-azad.github.io/My-Personal-Portfolio-Website/](ashik-al-azad.github.io/My-Personal-Portfolio-Website/)
 
-- 💬 Ask me about **Website , MEARN**
+- 📝 I regularly write articles on https://www.facebook.com/ashikalazad0
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Crypto & More**
 
 - 📫 How to reach me **asikalazadsovon@gmail.com**
 
