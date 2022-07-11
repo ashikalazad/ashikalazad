@@ -25,8 +25,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 📄 All About Me:[https://linktr.ee/ashik-al-azad](https://linktr.ee/ashik-al-azad)
-
 <p><img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harun181"/></p>
 
 <h3 align="left" alt="Coding" width="400">Connect with me:</h3>
