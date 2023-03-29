@@ -1,4 +1,4 @@
-<p><img src="https://github.com/ashik-al-azad/ashik-al-azad/blob/main/my-github-img.png" /></p>
+<p><img src="https://github.com/ashikalazad/ashikalazad/blob/main/my-github-img.png" /></p>
 
 <h1 align="center">Hi 👋, I'm a Programmer.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikalazad&label=Profile%20views&color=0e75b6&style=flat" alt="ashikalazad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashikalazad0" target="blank"><img src="https://img.shields.io/twitter/follow/ashikalazad0?logo=twitter&style=for-the-badge" alt="ashikalazad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashikalazad_OFC" target="blank"><img src="https://img.shields.io/twitter/follow/ashikalazad0?logo=twitter&style=for-the-badge" alt="ashikalazad" /></a> </p>
 
 - 🔭 I’m currently working on **My Projects**
 
@@ -15,9 +15,9 @@
 
 - 🤝 I Regularly Contribute To Programming Related Project On Here [https://github.com/ashikalazad](https://github.com/ashikalazad)
 
-- 👨‍💻 All of my projects are available at [ashikalazad.github.io/My-Personal-Portfolio-Website/](ashikalazad.github.io/My-Personal-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://my-website.ashikalazad.com/)
 
-- 📝 I regularly write articles on https://www.facebook.com/ashikalazad
+- 📝 I regularly write articles on https://www.facebook.com/ashikalazad.official/
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Crypto & More**
 
@@ -29,10 +29,10 @@
 
 <h3 align="left" alt="Coding" width="400">Connect with me:</h3>
 <p align="left" alt="Coding" width="400"><br>
-<a href="https://twitter.com/ashikalazad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashikalazad0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashik-al-azad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikalazad" height="30" width="40" /></a>
-<a href="https://fb.com/ashikalazad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikalazad0" height="30" width="40" /></a>
-<a href="https://instagram.com/ashikalazad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashikalazad0" height="30" width="40" /></a>
+<a href="https://twitter.com/ashikalazad_OFC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashikalazad0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashikalazad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikalazad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashikalazad.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikalazad0" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashikalazad_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashikalazad0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3><br>
