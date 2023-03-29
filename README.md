@@ -1,4 +1,4 @@
-<p><img src="https://github.com/ashik-al-azad/ashik-al-azad/blob/main/my-github-img.png" /></p>
+<p><img src="https://github.com/ashikalazad/ashikalazad/blob/main/my-github-img.png" /></p>
 
 <h1 align="center">Hi 👋, I'm a Programmer.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
