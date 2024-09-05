@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<p><img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harun181"/></p>
+<p></p>
 
 <h3 align="left" alt="Coding" width="400">Connect with me:</h3>
 <p align="left" alt="Coding" width="400"><br>
@@ -41,6 +41,6 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikalazad&" alt="ashikalazad" /></p>
 </div>
 
-<p>&nbsp;</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikalazad&show_icons=true&locale=en" alt="ashikalazad" /></p>
 
  <p><img src="https://activity-graph.herokuapp.com/graph?username=ashikalazad" /></p>
